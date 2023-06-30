@@ -32,4 +32,11 @@
 
 - Questions raised during analysis
   - Which is most customer’s `Gender`?
-  - What is `age` of most customer’s
+  - What is `age` of most customer’s?
+  - Customer has a `partner` or not?
+  - Customer has `dependents` or not?
+  - How many `number of months` customers stayed in company?
+  - Which customers has a `phone servic`e or not?
+  - Which customers has `multiple lines` or not?
+  - What is most internet service provider used?
+  - 
