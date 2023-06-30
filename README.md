@@ -76,7 +76,7 @@ ________________________________________________________________________________
   - Most customer `not churned`.
 
 - ### 3.2 Reached Results between Categorical columns
-  - ### Customers who left within the last month `1839`.
+  - #### Customers who left within the last month `1839`.
   - Most of them were `Female`.
   - Most of them were young not `Senior Citizen`.
   - Most of them don't have a `partner`.
