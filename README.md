@@ -92,3 +92,6 @@ ________________________________________________________________________________
   - Most of them don't have `streaming movies`.
   - Most of them have `monthly contract`(long contract period, less customer left).
   - Most of them have `Electronic check`  payment method.
+ 
+- 
+![one](https://github.com/Ahmedabbas75/Telco-customer-churn/assets/119451645/8f331635-fba4-4a56-8826-678e36d68e08)
