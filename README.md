@@ -22,7 +22,7 @@
 - `Churn`: Whether the customer churned or not (Yes or No).
 
 ## 2- In Mind Questions
-- General Questions related to the existence of
+- 2.1 General Questions related to the existence of
   - missing values?
   - wrong datatypes for columns?
   - complete duplicates in the data?
@@ -33,10 +33,20 @@
 - Questions raised during analysis
   - Which is most customer’s `Gender`?
   - What is `age` of most customer’s?
-  - Customer has a `partner` or not?
-  - Customer has `dependents` or not?
+  - Most Customer has a partner or not?
+  - Most Customer has `dependents` or not?
   - How many `number of months` customers stayed in company?
-  - Which customers has a `phone servic`e or not?
-  - Which customers has `multiple lines` or not?
-  - What is most internet service provider used?
-  - 
+  - Most customers has a `phone servic`e or not?
+  - Most customers has `multiple lines` or not?
+  - What is most `internet service` provider used?
+  - Most customers saw Internet Service `secure` or not?
+  - Most customers prefer `online backup` or not?
+  - Most customer have `device protection` or not?
+  - Most customer have `tech support` or not?
+  - Do most customers `streaming TV` or not?
+  - Do most customers `Streaming Movies` or not?
+  - What is the most `contract` customers prefer?
+  - What is the most `payment` method customers prefer?
+  - How many `customers left` within the last month?
+
+ - 
