@@ -57,7 +57,7 @@ ________________________________________________________________________________
 _______________________________________________________________________________________
 ## 3- Conclusion
 
-- ### 3.1 Reached Results Questions raised during analysis
+- ### 3.1 Reached Results during analysis
   - `Male` is the most customer’s gender.
   - Most customers don't `senior citizen`.
   - Most customers don't have a `partner`.
@@ -74,3 +74,21 @@ ________________________________________________________________________________
   - Most customers have a `monthly contract`.
   - Most customer has `Electronic check` payment method.
   - Most customer `not churned`.
+
+- ### 3.2 Reached Results between Categorical columns
+  - ### Customers who left within the last month `1839`.
+  - Most of them were `Female`.
+  - Most of them were young not `Senior Citizen`.
+  - Most of them don't have a `partner`.
+  - Most of them `over 18 years`(has no dependents).
+  - Most of them have `phone service`.
+  - Most of them have `multiple lines`.
+  - Most of them have `fiber optic` internet service(`DSL` is best service).
+  - Most of them saw that the internet is `not secure`.
+  - Most of them don't have `online backup`.
+  - Most of them don't have `device protection`.
+  - Most of them don't have `tech support`.
+  - Most of them don't have `streaming TV`.
+  - Most of them don't have `streaming movies`.
+  - Most of them have `monthly contract`(long contract period, less customer left).
+  - Most of them have `Electronic check`  payment method.
