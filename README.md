@@ -22,7 +22,7 @@
 - `Churn`: Whether the customer churned or not (Yes or No).
 _______________________________________________________________________________________
 ## 2- In Mind Questions
-- 2.1 General Questions related to the existence of
+- ### 2.1 General Questions related to the existence of
   - missing values?
   - wrong datatypes for columns?
   - complete duplicates in the data?
