@@ -20,7 +20,7 @@
 - `MonthlyCharges`: The amount charged to the customer monthly,
 - `TotalCharges`: The total amount charged to the customer,
 - `Churn`: Whether the customer churned or not (Yes or No).
-
+_______________________________________________________________________________________
 ## 2- In Mind Questions
 - 2.1 General Questions related to the existence of
   - missing values?
@@ -54,3 +54,4 @@
 
 - 2.4 Bivariate Questions between Numerical columns
   -  What is Relationship between `each Numerical` column and `Churn` column?
+_______________________________________________________________________________________
