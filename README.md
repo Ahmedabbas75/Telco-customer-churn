@@ -30,7 +30,7 @@
   - wrong range of values?
   - columns dropped it?
 
-- Questions raised during analysis
+- 2.2 Questions raised during analysis
   - Which is most customer’s `Gender`?
   - What is `age` of most customer’s?
   - Most Customer has a partner or not?
@@ -49,4 +49,5 @@
   - What is the most `payment` method customers prefer?
   - How many `customers left` within the last month?
 
- - 
+ - 2.3 Bivariate Questions
+   - What is Relationship between `each categorical` column and `Churn` column
