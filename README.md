@@ -52,7 +52,7 @@ ________________________________________________________________________________
  - ### 2.3 Bivariate Questions between Categorical columns
    - What is Relationship between `each categorical` column and `Churn` column?
 
-- ### 2.4 Bivariate Questions between Numerical columns
+- ### 2.4 Bivariate Questions between Categorical and Numerical columns
   -  What is Relationship between `each Numerical` column and `Churn` column?
 _______________________________________________________________________________________
 ## 3- Conclusion
@@ -93,5 +93,5 @@ ________________________________________________________________________________
   - Most of them have `monthly contract`(long contract period, less customer left).
   - Most of them have `Electronic check`  payment method.
  
-- 
+- ### 3.3 Reached Results between Categorical amd Numerical columns
 ![one](https://github.com/Ahmedabbas75/Telco-customer-churn/assets/119451645/8f331635-fba4-4a56-8826-678e36d68e08)
