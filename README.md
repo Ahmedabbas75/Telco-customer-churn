@@ -95,3 +95,5 @@ ________________________________________________________________________________
  
 - ### 3.3 Reached Results between Categorical amd Numerical columns
 ![one](https://github.com/Ahmedabbas75/Telco-customer-churn/assets/119451645/8f331635-fba4-4a56-8826-678e36d68e08)
+
+![two](https://github.com/Ahmedabbas75/Telco-customer-churn/assets/119451645/08fbd472-81a9-4d78-bbe9-ab4b89ffb0a0)
