@@ -33,7 +33,7 @@
 - 2.2 Questions raised during analysis
   - Which is most customer’s `Gender`?
   - What is `age` of most customer’s?
-  - Most Customer has a partner or not?
+  - Most Customer has a `partner` or not?
   - Most Customer has `dependents` or not?
   - How many `number of months` customers stayed in company?
   - Most customers has a `phone servic`e or not?
@@ -49,5 +49,8 @@
   - What is the most `payment` method customers prefer?
   - How many `customers left` within the last month?
 
- - 2.3 Bivariate Questions
-   - What is Relationship between `each categorical` column and `Churn` column
+ - 2.3 Bivariate Questions between Categorical columns
+   - What is Relationship between `each categorical` column and `Churn` column?
+
+- 2.4 Bivariate Questions between Numerical columns
+  -  What is Relationship between `each Numerical` column and `Churn` column?
