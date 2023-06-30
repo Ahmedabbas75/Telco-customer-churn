@@ -31,4 +31,5 @@
   - columns dropped it?
 
 - Questions raised during analysis
-  - 
+  - Which is most customer’s `Gender`?
+  - What is `age` of most customer’s
