@@ -1,24 +1,24 @@
 ## 1- Data Description :
-- `customerID`: A unique ID that identifies each customer.,
-- `gender`: The customer’s gender - Male, Female,
-- `SeniorCitizen`: Whether the customer is a senior citizen or not (1, 0),
-- `Partner`: Whether the customer has a partner or not (Yes, No),
-- `Dependents`: Whether the customer has dependents or not (Yes, No),
-- `tenure`: Number of months the customer has stayed with the company,
-- `PhoneService`: Whether the customer has a phone service or not (Yes, No),
-- `MultipleLines`: Whether the customer has multiple lines or not (Yes, No, No phone service),
-- `InternetService`: Customer’s internet service provider (DSL, Fiber optic, No),
-- `OnlineSecurity`: Whether the customer has online security or not (Yes, No, No internet service),
-- `OnlineBackup`: Whether the customer has online backup or not (Yes, No, No internet service),
-- `DeviceProtection`: Whether the customer has device protection or not (Yes, No, No internet service),
-- `TechSupport`: Whether the customer has tech support or not (Yes, No, No internet service),
-- `StreamingTV`: Whether the customer has streaming TV or not (Yes, No, No internet service),
-- `StreamingMovies`: Whether the customer has streaming movies or not (Yes, No, No internet service),
-- `Contract`: The contract term of the customer (Month-to-month, One year, Two year),
-- `PaperlessBilling`: Whether the customer has paperless billing or not (Yes, No),
-- `PaymentMethod`: The customer’s payment method (Electronic check, Mailed check, Bank transfer (automatic), Credit card (automatic)),
-- `MonthlyCharges`: The amount charged to the customer monthly,
-- `TotalCharges`: The total amount charged to the customer,
+- `customerID`: A unique ID that identifies each customer.
+- `gender`: The customer’s gender - Male, Female.
+- `SeniorCitizen`: Whether the customer is a senior citizen or not (1, 0).
+- `Partner`: Whether the customer has a partner or not (Yes, No).
+- `Dependents`: Whether the customer has dependents or not (Yes, No).
+- `tenure`: Number of months the customer has stayed with the company.
+- `PhoneService`: Whether the customer has a phone service or not (Yes, No).
+- `MultipleLines`: Whether the customer has multiple lines or not (Yes, No, No phone service).
+- `InternetService`: Customer’s internet service provider (DSL, Fiber optic, No).
+- `OnlineSecurity`: Whether the customer has online security or not (Yes, No, No internet service).
+- `OnlineBackup`: Whether the customer has online backup or not (Yes, No, No internet service).
+- `DeviceProtection`: Whether the customer has device protection or not (Yes, No, No internet service).
+- `TechSupport`: Whether the customer has tech support or not (Yes, No, No internet service).
+- `StreamingTV`: Whether the customer has streaming TV or not (Yes, No, No internet service).
+- `StreamingMovies`: Whether the customer has streaming movies or not (Yes, No, No internet service).
+- `Contract`: The contract term of the customer (Month-to-month, One year, Two year).
+- `PaperlessBilling`: Whether the customer has paperless billing or not (Yes, No).
+- `PaymentMethod`: The customer’s payment method (Electronic check, Mailed check, Bank transfer (automatic), Credit card (automatic)).
+- `MonthlyCharges`: The amount charged to the customer monthly.
+- `TotalCharges`: The total amount charged to the customer.
 - `Churn`: Whether the customer churned or not (Yes or No).
 _______________________________________________________________________________________
 ## 2- In Mind Questions
@@ -55,3 +55,22 @@ ________________________________________________________________________________
 - 2.4 Bivariate Questions between Numerical columns
   -  What is Relationship between `each Numerical` column and `Churn` column?
 _______________________________________________________________________________________
+## 3- Conclusion
+
+- 3.1 Reached Results Questions raised during analysis
+  - `Male` is the most customer’s gender.
+  - Most customers don't `senior citizen`.
+  - Most customers don't have a `partner`.
+  - Most customer’s don't have `dependents`(30.0% of customer’s under 18 years).
+  - Most customer’s has a `phone service`.
+  - 42.2% has `MultipleLines`.
+  - 78.4% has `Internet Service`(Most customer’s has fiber optic service).
+  - Most customers saw Internet Service has `no security`.
+  - Most customers don't have `online backup`.
+  - Most customer don't have `device protection`.
+  - Most customer don't have `tech support`.
+  - Most customer don't `streaming TV`.
+  - Most customer don't `Streaming Movies`.
+  - Most customers have a `monthly contract`.
+  - Most customer has `Electronic check` payment method.
+  - Most customer `not churned`.
