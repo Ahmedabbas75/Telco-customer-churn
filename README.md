@@ -92,5 +92,3 @@ ________________________________________________________________________________
   - Most of them don't have `streaming movies`.
   - Most of them have `monthly contract`(long contract period, less customer left).
   - Most of them have `Electronic check`  payment method.
- 
-- ### 3.3 Reached Results between Categorical amd Numerical columns
